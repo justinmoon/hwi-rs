@@ -1,0 +1,3 @@
+[submodule "hwi-tests"]
+	path = hwi-tests
+	url = https://github.com/justinmoon/hwi-tests.git
